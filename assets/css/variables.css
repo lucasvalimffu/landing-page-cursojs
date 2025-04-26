@@ -1,0 +1,9 @@
+/*No CSS é possível criar variáveis
+Todo vez que usar uma coisa que vai usar em vários locais é bom usar variável*/
+:root {
+    --primary-color: #0A1128;
+    --white-color: #ffffff;
+    --light-gray-color: #EEEEEE;
+    --secondary-color: crimson;
+    --gap: 3rem;
+}
